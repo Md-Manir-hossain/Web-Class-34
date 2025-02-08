@@ -1,0 +1,46 @@
+
+======= Conditional Operator (if) =======
+
+if (condition) {
+    //Statement....
+}
+
+else if (condition) {
+    //Statement....
+}
+
+else if (condition) {
+    //Statement....
+}
+
+else {
+    //Statement....
+}
+
+========= Relational Operator (Comparision Operator) ============
+
+<, >, ==, !=, <=, >=
+
+80-100 = A+
+70-79  = A
+60-69  = A-
+50-59  = B
+40-49  = C
+33-39  = D
+0-32   = F
+
+let number = 458654
+
+if (number > 0) {
+    console.log ("The Number is positive")
+}
+
+else {
+    console.log ("The number is Negative")
+}
+
+|| = Or Operator; (Rahim or Karim)
+&& = And Operator; (Rahim and Karim)
+
+Rahim || Karim || Kuddus = (Rahim or Karim or Kuddus)
+
